@@ -1,0 +1,32 @@
+[
+  {
+    "order_type": "Dine-In",
+    "items": [["Paneer Butter Masala", 2], ["Butter Naan", 4]],
+    "payment_method": "Cash",
+    "discount": 0
+  },
+  {
+    "order_type": "Takeaway",
+    "items": [["Veg Biryani", 1], ["Coke", 2]],
+    "payment_method": "UPI",
+    "discount": 10
+  },
+  {
+    "order_type": "Dine-In",
+    "items": [["Gulab Jamun", 3]],
+    "payment_method": "Card",
+    "discount": 0
+  },
+  {
+    "order_type": "Takeaway",
+    "items": [["Butter Naan", 2]],
+    "payment_method": "Cash",
+    "discount": 5
+  },
+  {
+    "order_type": "Dine-In",
+    "items": [],
+    "payment_method": "UPI",
+    "discount": 0
+  }
+]
